@@ -6,4 +6,4 @@ Then it should round the number to the nearest integer: -1, 0, or 1:
 - If the rounded number is 1 or -1, print: “Ah, you seem to live on the edge.”
 - Otherwise, print: “The middle path seems to be for you.”
 
-Use the starter code to help you begin
+Use the starter code in `roundit.c` to help you begin
